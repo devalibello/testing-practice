@@ -1,0 +1,12 @@
+.img {
+    width: 30%;
+    margin: 5%;
+   
+}
+
+.img:hover {
+transition-property: transform;
+transition-duration: 1s;
+transform: rotate(360deg);
+
+}
